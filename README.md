@@ -34,7 +34,7 @@ suite over a multi-entity consolidation on Azure Databricks and Delta Lake.
 history, dbt models and tests, semantic layers and DAX measure layers built from
 scratch so one metric means one thing everywhere it appears. Metric definitions
 documented and enforced in code rather than agreed in a meeting and forgotten.
-The same dataset in [project-parola](../../../project-parola) is checked three
+The same dataset in [project-dq1](../../../project-dq1) is checked three
 ways — dbt tests, Great Expectations and a hand-built rule engine — because
 knowing which layer a defect belongs to matters more than the tool.
 

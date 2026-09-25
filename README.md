@@ -132,9 +132,6 @@ SQL (BigQuery, Databricks, PostgreSQL, T-SQL, Oracle PL/SQL, DuckDB, Snowflake) 
 Python (pandas, PySpark, numpy) · dbt · Azure Databricks and Delta Lake ·
 Power BI semantic models and DAX · Airflow, Prefect, GitHub Actions
 
-Also: teaching business analytics and information systems at Glan Institute of
-Technology, where I wrote the PostgreSQL lab sequence.
-
 ---
 
 [LinkedIn](https://linkedin.com/in/denniswatin) 

@@ -1,17 +1,49 @@
 # Dennis B. Watin
 
-**Analytics engineer. I work on the accuracy side of data.**
+**Data engineer · Analytics engineer · Senior data analyst**
 
-Seven years building the layer that decides whether a number can be trusted —
-mostly in regulated financial data, where a discrepancy is an audit finding
-rather than an inconvenience. I owned the reconciliation and control reporting
-between operational systems and the accounting ledger at Spinnaker Insurance,
-and built the semantic layer and test suite over a multi-entity consolidation on
-Azure Databricks at Oestergaard.
+I build the reporting layer finance and operations teams decide on — the
+pipelines, the data model, and the analysis on top. The build and the
+interpretation have never been separate jobs for me.
+
+Seven years of it, mostly in regulated financial data where a discrepancy is an
+audit finding rather than an inconvenience. I owned the reconciliation and
+control reporting between operational systems and the accounting ledger at
+Spinnaker Insurance, and built the semantic layer and test suite over a
+multi-entity consolidation on Azure Databricks at Oestergaard.
 
 Accountancy-trained, which is why I tend to settle definition conflicts before
 they reach a model rather than after they reach a leadership deck. Fully remote
 with UK, EU and US teams since 2018, from Sarangani in the southern Philippines.
+
+---
+
+## Three shapes of the same job
+
+**As a data engineer** — ingestion and staging that survives replays, late
+arrivals, schema drift and restatement; CDC from log and query-based sources;
+incremental models and orchestration on Airflow, Prefect and Databricks jobs;
+CI/CD through GitHub Actions. Python throughout — pandas and PySpark for
+validation, reconciliation and ingestion. Tuned **BigQuery** queries over 400M+
+row tables from about ten minutes to roughly five seconds through partitioning,
+clustering and rewritten joins, which is what made full-population checks
+affordable instead of sampling. On **Azure**, built the semantic layer and test
+suite over a multi-entity consolidation on Azure Databricks and Delta Lake.
+
+**As an analytics engineer** — star schemas and conformed dimensions, SCD Type 2
+history, dbt models and tests, semantic layers and DAX measure layers built from
+scratch so one metric means one thing everywhere it appears. Metric definitions
+documented and enforced in code rather than agreed in a meeting and forgotten.
+The same dataset in [project-parola](../../../project-parola) is checked three
+ways — dbt tests, Great Expectations and a hand-built rule engine — because
+knowing which layer a defect belongs to matters more than the tool.
+
+**As a senior data analyst** — six years at HICX where requirements gathering
+*was* the job: global enterprise clients arrived with a rough idea of what they
+wanted and no clear view of what their systems held, and my role was to find
+out, tell them, and agree what the reporting should say. Presenting findings to
+non-technical stakeholders, and escalating definition conflicts between teams
+before they were baked into the warehouse.
 
 ---
 
@@ -75,6 +107,23 @@ successes reads as either inexperienced or not entirely honest. A few:
   because the system never posted adjustments and the same missing case was
   re-found every month.
 
+---
+
+## Experience
+
+| | | |
+|---|---|---|
+| **Oestergaard A/S** · Denmark | Analytics / Data Engineer | 2026 |
+| **Spinnaker Insurance / Hippo** · USA | Business Intelligence Developer | 2025–2026 |
+| **HICX** · London | Senior Data Analyst ← Senior Implementation Analyst ← Implementation Analyst | 2018–2024 |
+| **Bureau of Internal Revenue** · Philippines | Information System Analyst / Section Chief — PL/SQL against national tax systems | 2004–2011 |
+
+Concurrently: Guest Lecturer in Business Analytics, Data Warehousing and Management, Information Security, 
+and Information Systems at Glan Institute of Technology, where I wrote the PostgreSQL lab sequence — query
+fundamentals through window functions and execution plans, on worked business
+cases rather than toy tables.
+
+Master in Information Technology · BSc Accountancy
 ---
 
 ## Stack

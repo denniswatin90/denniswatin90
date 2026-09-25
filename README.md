@@ -23,7 +23,7 @@ documented, and each project reports the number that moved.
 
 | | What it is | The result |
 |---|---|---|
-| **[project-con1](../../../project-con1)** | Three ERP systems, one group, five years of general ledger | Consolidated statements tying to **$126,854** on $130M of assets — and every part of the residual named |
+| **[project-cons](../../../project-cons)** | Three ERP systems, one group, five years of general ledger | Consolidated statements tying to **$126,854** on $130M of assets — and every part of the residual named |
 | **[project-dq1](../../../project-dq1)** | A data quality platform on Databricks, and the reconciliation that proves it | Ledger variance from **$6.3M to $1,502**, both residuals explained rather than tuned away |
 | **[project-pp1](../../../project-pp1)** | A supply chain pipeline across ERP, WMS, carrier and cycle counts | The same deliveries score an OTIF of **19% or 83%**, depending on four choices nobody writes down |
 | **[project-pp2](../../../project-pp2)** | A marketing pipeline across Google, Meta, TikTok and web analytics | The same spend is a ROAS of **1.59 or 0.93** depending on the attribution model |

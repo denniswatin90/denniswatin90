@@ -55,14 +55,14 @@ documented, and each project reports the number that moved.
 
 | | What it is | The result |
 |---|---|---|
-| **[project-cons](../../../project-cons)** | Three ERP systems, one group, five years of general ledger | Consolidated statements tying to **$126,854** on $130M of assets — and every part of the residual named |
+| **[project-cons](../../../project-cons)** | Three ERP systems, one group, five years of general ledger | Consolidated statements tying to **$126,854** on $130M of assets — and every part of the residual named - No repo yet |
 | **[project-dq1](../../../project-dq1)** | A data quality platform on Databricks, and the reconciliation that proves it | Ledger variance from **$6.3M to $1,502**, both residuals explained rather than tuned away |
-| **[project-pp1](../../../project-pp1)** | A supply chain pipeline across ERP, WMS, carrier and cycle counts | The same deliveries score an OTIF of **19% or 83%**, depending on four choices nobody writes down |
-| **[project-pp2](../../../project-pp2)** | A marketing pipeline across Google, Meta, TikTok and web analytics | The same spend is a ROAS of **1.59 or 0.93** depending on the attribution model |
-| **[project-stg1](../../../project-stg1)** | The staging layer: idempotency, CDC, watermarks, schema drift | A clock-skewed watermark silently skipped **294 rows**, unrecoverably |
-| **[project-stg2](../../../project-stg2)** | Multi-entity consolidation with the test layer that gates it | **5.69 points** of gross margin moved in a closed period — from one word in a JOIN |
-| **[project-dq2](../../../project-dq2)** | Data quality reporting in Databricks and Power BI | Two quality scores over the same data moving in **opposite directions** |
-| **[project-dq3](../../../project-salaan)** | Where you put a control decides what it can say | Five enforcement points; **no single one catches more than 5 of 12** defects |
+| **[project-pp1](../../../project-pp1)** | A supply chain pipeline across ERP, WMS, carrier and cycle counts | The same deliveries score an OTIF of **19% or 83%**, depending on four choices nobody writes down - No repo yet |
+| **[project-pp2](../../../project-pp2)** | A marketing pipeline across Google, Meta, TikTok and web analytics | The same spend is a ROAS of **1.59 or 0.93** depending on the attribution model - No repo yet |
+| **[project-stg1](../../../project-stg1)** | The staging layer: idempotency, CDC, watermarks, schema drift | A clock-skewed watermark silently skipped **294 rows**, unrecoverably - No repo yet |
+| **[project-stg2](../../../project-stg2)** | Multi-entity consolidation with the test layer that gates it | **5.69 points** of gross margin moved in a closed period — from one word in a JOIN - No repo yet |
+| **[project-dq2](../../../project-dq2)** | Data quality reporting in Databricks and Power BI | Two quality scores over the same data moving in **opposite directions** - No repo yet |
+| **[project-dq3](../../../project-salaan)** | Where you put a control decides what it can say | Five enforcement points; **no single one catches more than 5 of 12** defects - No repo yet|
 
 All synthetic data, built to demonstrate approach.
 

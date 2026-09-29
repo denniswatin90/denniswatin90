@@ -56,8 +56,8 @@ documented, and each project reports the number that moved.
 | | What it is | The result |
 |---|---|---|
 <!--| **[project-cons](../../../project-cons)** | Three ERP systems, one group, five years of general ledger | Consolidated statements tying to **$126,854** on $130M of assets — and every part of the residual named - No repo yet |-->
-| **[project-dq1](../../../project-dq1)** | Ecommerce Data Platform: Batch, Streaming & Data Quality | An end-to-end data engineering project that turns 541K raw ecommerce transactions into tested, analytics-ready data. |
-<!--| **[project-pp1](../../../project-pp1)** | A supply chain pipeline across ERP, WMS, carrier and cycle counts | The same deliveries score an OTIF of **19% or 83%**, depending on four choices nobody writes down - No repo yet |
+| **[project-dq1](../../../project-dq1)** | A data quality platform on Databricks, and the reconciliation that proves it | Ledger variance from **$6.3M to $1,502**, both residuals explained rather than tuned away |
+| **[project-ecom](../../../project-ecom)** | Ecommerce Data Platform: Batch, Streaming & Data Quality | Production-grade data pipeline built with Airflow, dbt, and Medallion architecture to turn 541K raw e-commerce records into Power BI analytics and churn ML models. |
 <!--| **[project-pp1](../../../project-pp1)** | A supply chain pipeline across ERP, WMS, carrier and cycle counts | The same deliveries score an OTIF of **19% or 83%**, depending on four choices nobody writes down - No repo yet |
 | **[project-pp2](../../../project-pp2)** | A marketing pipeline across Google, Meta, TikTok and web analytics | The same spend is a ROAS of **1.59 or 0.93** depending on the attribution model - No repo yet |
 | **[project-stg1](../../../project-stg1)** | The staging layer: idempotency, CDC, watermarks, schema drift | A clock-skewed watermark silently skipped **294 rows**, unrecoverably - No repo yet |

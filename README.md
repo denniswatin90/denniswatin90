@@ -16,6 +16,7 @@ Accountancy-trained, which is why I tend to settle definition conflicts before
 they reach a model rather than after they reach a leadership deck. Fully remote
 with UK, EU and US teams since 2018, from Sarangani in the southern Philippines.
 
+<sub>_Most of my 2015–2026 work lives in private client repositories (HICX, Hippo, Oestergaard, and others). Public repos here are portfolio rebuilds and current projects._</sub>
 ---
 
 ## Three shapes of the same job
